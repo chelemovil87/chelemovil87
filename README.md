@@ -4,7 +4,7 @@
 
 <!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3>Welcome to my page! </br> I'm José, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="25"/></a>  </b>. </h3>-->
-<h2> I'm Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="25"/></a>  </b>. </h2>
+<h2> I'm Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="20"/></a>  </b>. </h2>
 
 <!--
 **chelemovil87/chelemovil87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
