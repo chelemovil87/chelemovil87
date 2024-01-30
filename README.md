@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Statistics Set  
+<div align="center">  
+
 ![My Statistics Set](https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical)
 ![My Statistics Set](https://github-readme-stats.vercel.app/api/top-langs/?username=chelemovil87&layout=compact&theme=radical)
+
+</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
