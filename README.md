@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm José, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Córdoba, Spain, currently living in Málaga</b>. </p>
+
 
 <!--
 **chelemovil87/chelemovil87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical)
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -79,11 +73,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/chelemovil87" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@Chelerodrigue86
-" target="_blank">
+<a href="https://twitter.com/@Chelerodrigue86" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-eduardo-rodr%C3%ADguez-fern%C3%A1ndez/" target="_blank">
+<a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-rodr%C3%ADguez-fern%C3%A1ndez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/@chelemovil87" target="_blank">
