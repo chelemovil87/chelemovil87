@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Statistics Set  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical"/></div>  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelemovil87&hide_border=true&layout=compact&theme=radical"/></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical"/></div>  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelemovil87&layout=compact&theme=radical"/></div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
