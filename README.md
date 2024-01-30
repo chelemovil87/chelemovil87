@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm José, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Córdoba, Spain, currently living in Málaga</b>. </p>
-
+<h3>Welcome to my page! </br> I'm José, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="25"/></a>  </b>. </h3>
 
 <!--
 **chelemovil87/chelemovil87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical)
+## My Statistics Set  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=chelemovil87&show_icons=true&theme=radical"/></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelemovil87&hide_border=true&layout=compact&theme=radical"/></div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -38,8 +37,6 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -51,8 +48,6 @@ Here are some ideas to get you started:
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -66,7 +61,6 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
