@@ -6,7 +6,7 @@
 <h3>Welcome to my page! </br> I'm José, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="25"/></a>  </b>. </h3>-->
 <h2> I'm Software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="20"/> <b>Córdoba, Spain, currently living in Málaga, studying in <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdF780RE-Tc_cagzp6wpNwb1-aTFBoZc205dibLYjhcBrHhdPpmBerJg&s" width="20"/></a></b></h2>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chelemovil87?cardType=github&theme=dark&fontFamily=&preferLogin=false&Text=A9FEF7&Title=FF428E&Ring=CFB541&Background=141321&borderRadius=4)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chelemovil87?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false&Text=A9FEF7&Title=FF428E&Ring=CFB541&Background=141321&borderRadius=4)](https://git.io/awesome-stats-card)
 
 <!--
 **chelemovil87/chelemovil87** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
